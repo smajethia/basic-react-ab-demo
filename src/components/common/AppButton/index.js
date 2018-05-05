@@ -12,8 +12,7 @@ class AppButton extends Component {
   render() {
     const RenderComp = this.components[this.props.bucket || 'A'];
     return(
-        <div>          
-          <h1>Render button using Dynamic Rendering</h1>
+        <div>
           <RenderComp /> 
         </div>
       )

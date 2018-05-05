@@ -14,7 +14,8 @@
     "redux-devtools-extension": "^2.13.2",
     "redux-testkit": "^1.0.6",
     "redux-thunk": "^2.2.0",
-    "react-ab-experiment": "^1.2.9"
+    "react-ab-experiment": "^1.2.9",
+    "styled-components": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
