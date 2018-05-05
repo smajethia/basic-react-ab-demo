@@ -4,17 +4,18 @@
   "private": true,
   "dependencies": {
     "axios": "^0.16.2",
+    "gh-pages": "^1.1.0",
     "react": "^15.6.1",
+    "react-ab-experiment": "^1.2.9",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.17",
     "react-redux": "^5.0.6",
     "react-router": "^4.1.1",
     "react-router-dom": "^4.1.1",
+    "react-scripts": "1.0.17",
     "redux": "^3.7.1",
     "redux-devtools-extension": "^2.13.2",
     "redux-testkit": "^1.0.6",
     "redux-thunk": "^2.2.0",
-    "react-ab-experiment": "^1.2.9",
     "styled-components": "^2.1.1"
   },
   "scripts": {
